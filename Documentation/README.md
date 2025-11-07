@@ -25,6 +25,7 @@ you are welcome to ask on [Discord](../README.md#get-in-touch-and-participate).
 * [How to Contribute](../CONTRIBUTING.md)
 * [Coding Style](CodingStyle.md)
 * [Common Patterns](Patterns.md)
+* [Shorthand Assertion Helpers](ShorthandAssertions.md)
 * [Guidelines for Text in UI](HumanInterfaceGuidelines/Text.md)
 * [EventLoop](EventLoop.md)
 * [Smart Pointers](SmartPointers.md)
